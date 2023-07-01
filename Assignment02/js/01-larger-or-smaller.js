@@ -8,7 +8,7 @@ if(n1>n2){
         document.write("Second no is larger than first no");
     }
     else{
-        alert("Both no are equal")
+        alert("Both no are equal! ")
     }
 
 
