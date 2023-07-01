@@ -6,7 +6,7 @@ coinFlip = randomNum
 let choice = prompt("Enter Heads or Tails");
  if(choice !== "Heads" && choice !== "Tails"){
      alert("Please enter only Heads or Tails")
- }
+     }
 
 //if it’s less than a 0.5 , it will be heads. If it’s greater than .5 , it will be tails. 
 if(coinFlip >= 0.5){
